@@ -3,5 +3,6 @@ Analyzed cars dataset and performed exploratory data analysis and then categoriz
 
 Skills:
 1. K-means clustering
-2. EDA
-3. Linear Regression
+2. Agglomerative Clustering.
+3. EDA
+4. Linear Regression
